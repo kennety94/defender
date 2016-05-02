@@ -1,4 +1,4 @@
-# defender
+# Defender
 One of my first games
 
 Warning!!!
